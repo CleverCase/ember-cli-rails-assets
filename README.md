@@ -1,6 +1,6 @@
 # EmberCLI Rails - Assets
 
-Test
+Test!
 
 The `ember-cli-rails-assets` gem extends [`ember-cli-rails`][ember-cli-rails] to
 enable rendering EmberCLI-generated JavaScript and CSS stylesheets into your
